@@ -1,1 +1,15 @@
 $@ - recebe parametros do usuario
+
+Todo comando linux esse comando emite um status de saída, por padrão esse se 
+for tudo ok na execução esse status é 0 se der erro o número do status pode variar 
+de 1 a 255
+para acessar esse status use o comando $?
+
+Fluxo de entrada, saída e mensagens de erro:
+esses fluxos são referenciados por numero
+0 - entrada padrão
+1 - saída padrão 
+2 - mensagens de erro padrão
+
+
+redirecionar mensagem de erro para um arquivo para ser analisado

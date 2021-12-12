@@ -1,0 +1,84 @@
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/algoritmos.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/amazon_aws.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/arduino_pratico.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/asp_net.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/big_data.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/codeigniter.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/cordova.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/dsl.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/elasticsearch.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/es6.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/java_ee.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/jenkins.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/jquery.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/mantra_produtividade.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/metricas_ageis.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/node.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/nosql.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/orientacao_objetos.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/postgres.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/sass.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/scala.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/scratch.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/seguranca.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/turbine_css.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/vue.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/windows_server.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/xamarin_forms.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/zend.png' @ error/convert.c/ConvertImageCommand/3258.
