@@ -13,3 +13,24 @@ esses fluxos são referenciados por numero
 
 
 redirecionar mensagem de erro para um arquivo para ser analisado
+
+ps -e : lista os processos
+ps -e -o pid : lista apenas o PID dos processos
+ps -e output pid --sort -size: lista ordenada pelo tamanho da memória alocada para cada processo
+	** ps -e -o pid --sort -size | head : listando os 10 primeiros processos
+	** ps -e -o pid --sort -size | head -n 11: listando os 11 primeiros processos
+	** ps -e -o pid --sort -size | head -n 11 | grep [0-9] : filtrando as linhas que contém apenas números
+	
+ps -p <numero_pid> -o comm= : descobrindo o nome do processo através do número do PID
+
+
+Date : informa a data 
+	** date +%F : formata a data YYYY/MM/DD
+	** date +%F,%H:%M:%S : formata a data YYYY/MM/DD e a hora HH:MM:SS
+
+ps -p 56049 -o size : retorna o tamanho da memória alocada do processo em quiobyte
+
+
+
+
+
